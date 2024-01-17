@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bem-vindo, Willkommen, Welcome, I'm Blade!"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
