@@ -8,10 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am a researcher and artist exploring the crossroads of computers and creative expression.
+Hi there! I am a researcher and artist exploring the crossroads of computers and creative expression. I recently graduated with a BA in Music from Berea College. While there, I held a work-study position as Student Craft Weaver where I had the opportunity to make [quilts](https://www.bcloghousecrafts.com/student-craft-garden-sampler-quilted-tapestry.html), [textiles](https://www.bcloghousecrafts.com/student-craft/weaving/), and a jacket! I also particapted in a student research project where my peers and I programmed, constructed, and presented on [ThanatoFenestra](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf). A digital-physical altar that functions from a candle flame. I rounded out my college experience with a presentation surveying the history of computer music for my Senior Capstone. I now spend my days slinging Detroit and Neapolitan pizzas from my little home oven, and my nights are spent uncovering text to audio programming with Supercollider.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
 
