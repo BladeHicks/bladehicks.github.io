@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
+# [Learning Through Replication by Fabricating ThanatoFenestra] (https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf)
+
+[//]: # ({% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -13,4 +15,4 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %})
