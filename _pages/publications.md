@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 
-## [Learning Through Replication by Fabricating ThanatoFenestra](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf)
-_[International Symposium on Academic Makerspaces (ISAM)](https://isam2022.hemi-makers.org/)_ NOV. 18, 2022
+**[Learning Through Replication by Fabricating ThanatoFenestra](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf)**
+_[International Symposium on Academic Makerspaces (ISAM)](https://isam2022.hemi-makers.org/)_
+Nov. 18, 2022
 
 
 [//]: # ({% if author.googlescholar %}
