@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/    
     
-  - title: "Music"
-    url: https://soundcloud.com/bladezilla
+  # - title: "Talks"
+  #   url: /talks/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
