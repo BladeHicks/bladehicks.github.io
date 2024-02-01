@@ -1,6 +1,6 @@
 ---
-title: "Garden Sampler Quilt"
-excerpt: "Short description of Garden Sampler Quilt"
+title: "Garden Sampler Quilted Tapestry"
+excerpt: "Short description of Garden Sampler Quilted Tapestry"
 collection: portfolio
 ---
 

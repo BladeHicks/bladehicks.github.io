@@ -1,5 +1,5 @@
 ---
-title: "Espresso Cups"
+title: "Doppio"
 excerpt: "Summer time ceramics!"
 collection: portfolio
 ---

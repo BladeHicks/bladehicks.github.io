@@ -1,5 +1,5 @@
 ---
-title: "BraillePhone & E-Reader"
+title: "BraillePhone"
 excerpt: "Short description of BraillePhone"
 collection: portfolio
 ---
