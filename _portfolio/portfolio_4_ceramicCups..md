@@ -4,5 +4,6 @@ excerpt: "Summer time ceramics!"
 collection: portfolio
 ---
 
-Here are some cups!(/images/ceramics_cups_display.jpg)
+![Custom ceramic espresso cups](/images/ceramics_cups_display.jpg "Ceramic Espresso Cups")
+Here are some cups!
 lets see!
