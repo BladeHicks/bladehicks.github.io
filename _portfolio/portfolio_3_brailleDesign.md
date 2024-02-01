@@ -1,6 +1,6 @@
 ---
-title: "Braille phone/e-reader"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "BraillePhone & E-Reader"
+excerpt: "Short description of BraillePhone"
 collection: portfolio
 ---
 

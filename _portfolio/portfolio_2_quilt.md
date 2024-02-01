@@ -1,6 +1,6 @@
 ---
-title: "Quilt"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Garden Sampler Quilt"
+excerpt: "Short description of Garden Sampler Quilt"
 collection: portfolio
 ---
 
