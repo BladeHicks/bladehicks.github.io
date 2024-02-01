@@ -11,7 +11,7 @@ main:
     url: /publications/    
     
   - title: "Craft"
-     url: /craft/
+    url: /craft/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
