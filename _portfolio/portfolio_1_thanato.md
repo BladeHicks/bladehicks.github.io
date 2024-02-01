@@ -4,5 +4,7 @@ excerpt: "A techno family altar."
 collection: portfolio
 ---
 
+Testing some text here!
+
 ![ThanatoFenestra](/images/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra")
 A student led project to recreate ThanatoFenestra. 
