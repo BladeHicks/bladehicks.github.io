@@ -6,11 +6,11 @@ collection: portfolio
 
 Brief: We are writing a lot here because we need to see how it looks.<br>
 
-![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: width="500px"}
+![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: .align-center width="500px"}
 
-![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc.png "ThanatoFenestra"){: width="200px"}
-![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_2.png "ThanatoFenestra"){: width="200px"}
-![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_3.png "ThanatoFenestra"){: width="200px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_2.png "ThanatoFenestra"){: .align-center width="200px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc.png "ThanatoFenestra"){: .align-center width="200px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_3.png "ThanatoFenestra"){: .align-center width="200px"}
 
 Student led project to recreate ThanatoFenestra.<br>
 Some text here.<br>
