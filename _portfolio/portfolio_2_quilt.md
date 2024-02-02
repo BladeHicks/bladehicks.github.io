@@ -1,6 +1,6 @@
 ---
 title: "Garden Sampler Quilted Tapestry"
-excerpt: "<img src='/images/quilt/garden_quilt_erin.jpg' width='200px'>"
+excerpt: "<img src='/images/quilt/garden_quilt_table.jpg' width='200px'>"
 collection: portfolio
 ---
 
