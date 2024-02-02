@@ -1,12 +1,13 @@
 ---
 title: "ThanatoFenestra"
-excerpt: "<img src='/images/thanatofenestra/tf_staged.jpg' width='200px'>"
+excerpt: "Digital altar for the future."
+# excerpt: "<img src='/images/thanatofenestra/tf_staged.jpg' width='200px'>"
 collection: portfolio
 ---
 
-Brief: We are writing a lot here because we need to see how it looks.<br>
+![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: width="500px"}
 
-![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: .align-center width="500px"}
+ThanatoFenestra is a student-led replicative study conducted in the summer of 2022 by 2 peers, Chesky and Nancy, and myself. It is a functi
 
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_2.png "ThanatoFenestra"){: width="210px"}
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc.png "ThanatoFenestra"){: width="210px"}

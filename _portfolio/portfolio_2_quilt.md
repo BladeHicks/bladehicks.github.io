@@ -1,6 +1,7 @@
 ---
 title: "Garden Sampler Quilted Tapestry"
-excerpt: "<img src='/images/quilt/garden_quilt_table.jpg' width='200px'>"
+excerpt: "Collaborative quilted tapestry by nine Berea College student-laborers."
+# excerpt: "<img src='/images/quilt/garden_quilt_table.jpg' width='200px'>"
 collection: portfolio
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "BraillePhone"
-excerpt: "<img src='/images/braillePhone/bp_final.jpg' width='200px'>"
+excerpt: "A phone designed for a friend."
+# excerpt: "<img src='/images/braillePhone/bp_final.jpg' width='200px'>"
 collection: portfolio
 ---
 
