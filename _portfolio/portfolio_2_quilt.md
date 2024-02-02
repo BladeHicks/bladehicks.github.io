@@ -11,8 +11,9 @@ collection: portfolio
 **Students**: Shaylee ’23, Sisaly ’25, Shekinah ’23, Taku ’23, Middle Row, Evelyn ’22, Zy ’22, Esther ’23, Dora ’23, Blade ’23<br>
 **Available at**: [Design Within Reach](https://www.dwr.com/accessories-art-mirrors/quilted-tapestry-purple%2Fpink/2553115-2.html?cjdata=MXxOfDB8WXww&cjevent=6dec95cbc19d11ee818e01500a82b832&utm_source=commissionjunction&utm_medium=affiliate) & [Log House Craft Gallery](https://www.bcloghousecrafts.com/student-craft-garden-sampler-quilted-tapestry.html).<br>
 
-
-
+<br>
+<br>
+<br>
 
 **My Story**<br>
 ![Quilt Block](/images/quilt/garden_quilt_description.jpg "Quilt Block"){: width="400px"}
