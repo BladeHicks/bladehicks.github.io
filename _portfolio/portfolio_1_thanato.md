@@ -16,9 +16,9 @@ ThanatoFenestra is a student-led replicative study conducted in the summer of 20
 Student led project to recreate ThanatoFenestra.<br>
 Some text here.<br>
 
-![ThanatoFenestra](/images/thanatofenestra/tf_prototype_withComp.jpg "ThanatoFenestra"){: width="500px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_prototype_withComp.jpg "ThanatoFenestra"){: width="600px"}
 
-![ThanatoFenestra](/images/thanatofenestra/tf_sensors.jpg "ThanatoFenestra"){: width="250px"}
-![ThanatoFenestra](/images/thanatofenestra/tf_guts.jpg "ThanatoFenestra"){: width="250px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_sensors.jpg "ThanatoFenestra"){: width="300px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_guts.jpg "ThanatoFenestra"){: width="300px"}
 
-![ThanatoFenestra](/images/thanatofenestra/tf_poster.png "ThanatoFenestra"){: width="500px"}
+![ThanatoFenestra](/images/thanatofenestra/tf_poster.png "ThanatoFenestra"){: width="600px"}
