@@ -11,6 +11,5 @@ collection: portfolio
 ![Quilt Block Null](/images/quilt/garden_quilt_blockNull.jpg "Quilt Block Null"){: width="200px"} 
 ![Quilt Block](/images/quilt/garden_quilt_block.jpg "Quilt Block"){: width="200px"} 
 
-![Quilt Block](/images/quilt/garden_quilt_erin.jpg "Quilt Block"){: width="200px"}
-
-![Quilt Block](/images/quilt/garden_quilt_description.jpg "Quilt Block"){: width="500px"}
+![Quilt Block](/images/quilt/garden_quilt_erin.jpg "Quilt Block"){: width="300px"}
+![Quilt Block](/images/quilt/garden_quilt_description.jpg "Quilt Block"){: width="300px"}
