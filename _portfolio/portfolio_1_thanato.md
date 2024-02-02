@@ -1,6 +1,6 @@
 ---
 title: "ThanatoFenestra>"
-excerpt: "<img src='/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg' width="200px">"
+excerpt: "<img src='/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg' width='200px'>"
 collection: portfolio
 ---
 
