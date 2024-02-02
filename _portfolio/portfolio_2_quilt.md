@@ -16,7 +16,7 @@ collection: portfolio
 <br>
 
 **My Story**<br>
-![Quilt Block](/images/quilt/garden_quilt_description.jpg "Quilt Block"){: width="400px"}
+![Quilt Block](/images/quilt/garden_quilt_description.jpg "Quilt Block"){: width="600px"}
 
 ![Quilt Block Null](/images/quilt/garden_quilt_blockNull.jpg "Quilt Block Null"){: width="300px"} 
 ![Quilt Block](/images/quilt/garden_quilt_block.jpg "Quilt Block"){: width="300px"} 
