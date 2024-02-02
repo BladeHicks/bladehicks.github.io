@@ -1,6 +1,6 @@
 ---
 title: "ThanatoFenestra"
-excerpt: "A techno family altar."
+excerpt: "A culturally sensitive family altar from the future."
 collection: portfolio
 ---
 

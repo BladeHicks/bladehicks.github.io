@@ -1,6 +1,6 @@
 ---
 title: "Doppio"
-excerpt: "Summer time ceramics!"
+excerpt: "A collection of handmade espresso cup."
 collection: portfolio
 ---
 

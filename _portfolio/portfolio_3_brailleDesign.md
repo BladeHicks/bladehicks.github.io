@@ -1,6 +1,6 @@
 ---
 title: "BraillePhone"
-excerpt: "Short description of BraillePhone"
+excerpt: "A phone designed for a friend."
 collection: portfolio
 ---
 
