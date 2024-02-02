@@ -7,7 +7,7 @@ collection: portfolio
 
 ![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: .align-right width="300px"}
 **ThanatoFenestra is a digital altar that combines computer and sensor technology with cultural practices around grief to provide a space of solace that is both accessible and culturally sensitive.**
-This student-led research project brought to life the design concept originally concieved by media-designer and professor Dr. Daisuke Uriu. 
+This student-led replicative study brought to life the design concept originally concieved by media-designer and professor Dr. Daisuke Uriu. 
 
 **Researchers**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.
 **Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor.
