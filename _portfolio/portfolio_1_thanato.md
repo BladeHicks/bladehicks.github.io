@@ -1,13 +1,16 @@
 ---
 title: "ThanatoFenestra"
-excerpt: "Digital altar for the future."
+excerpt: "Culture sensetive family altar."
 # excerpt: "<img src='/images/thanatofenestra/tf_staged.jpg' width='200px'>"
 collection: portfolio
 ---
 
-![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: width="600px"}
+![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: .align-right width="300px"}
+**ThanatoFenestra is a digital altar that combines computer and sensor technology with cultural practices around grief to provide a space of solace that is both accessible and culturally sensitive.**
+This student-led research project brought to life the design concept originally concieved by media-designer and professor Dr. Daisuke Uriu. 
 
-ThanatoFenestra is a student-led replicative study conducted in the summer of 2022 by 2 peers, Chesky and Nancy, and myself. This research project sought to fabricate the concept design originally concieved by media-designer and professor Daisuke Uriu. 
+**Researchers**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.
+**Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor.
 
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_2.png "ThanatoFenestra"){: width="210px"}
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc.png "ThanatoFenestra"){: width="210px"}
