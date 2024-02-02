@@ -28,5 +28,5 @@ ThanatoFenestra is a Japanese Buddhist altar reimagined into a circular frame wh
 ![ThanatoFenestra](/images/thanatofenestra/tf_guts.jpg "ThanatoFenestra"){: width="300px"}
 
 **Presentation**<br>
-This project concluded with a poster presentation at the [International Symposium on Academic Makerspaces](https://isam2022.hemi-makers.org/), 2022.<br>
-![ThanatoFenestra](/images/thanatofenestra/tf_poster.png "ThanatoFenestra"){: .align-right width="600px"}
+This project allowed us the opportunity to present a poster at the [International Symposium on Academic Makerspaces 2022](https://isam2022.hemi-makers.org/).<br>
+![ThanatoFenestra](/images/thanatofenestra/tf_poster.png "ThanatoFenestra"){: width="600px"}
