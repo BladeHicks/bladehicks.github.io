@@ -1,5 +1,5 @@
 ---
-title: "ThanatoFenestra"
+title: "ThanatoFenestra <img src='/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg' width="200px>"
 excerpt: "A culturally sensitive family altar from the future."
 collection: portfolio
 ---
