@@ -24,6 +24,8 @@ At the start of our summer research program, we were presented with the opportun
 **Background and Replication Objective**<br>
 ThanatoFenestra is a Japanese Buddhist altar reimagined into a circular frame which displays a projected image that is manipulated by a candle flame. The concept addresses space challenges of urban living by miniaturizing a traditional Butsudan altar. Zen Buddhist ideals inspired the circular shape of the structure, which understands the circle as a window into the afterlife. A circular wooden frame with Japanese paper is attached to the rear that acts as the projector screen. From the front, a wooden shelf is nestled below the frame's center. The shelf’s purpose is two-fold: it suspends the incense bowl above a tea candle and it hides the sensors that will read the candle flame’s condition. The original concept used a PC laptop, projector, and a custom microcontroller hidden outside the frame. Our goal was to recreate the design with open-source and off-the-shelf components, and fully enclose all electronics for a single portable artifact.
 
+[Read More (ISAM 2022)>>](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf)
+
 ![ThanatoFenestra](/images/thanatofenestra/tf_sensors.jpg "ThanatoFenestra"){: width="300px"}
 ![ThanatoFenestra](/images/thanatofenestra/tf_guts.jpg "ThanatoFenestra"){: width="300px"}
 
