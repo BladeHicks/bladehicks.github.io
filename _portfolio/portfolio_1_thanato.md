@@ -7,7 +7,7 @@ collection: portfolio
 
 ![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: .align-right width="300px"}
 **ThanatoFenestra is a digital altar that combines computer and sensor technology with cultural practices around grief to provide a space of solace that is both accessible and culturally sensitive.**
-This student-led replicative study brought to life the design concept originally concieved by media-designer and professor [Dr. Daisuke Uriu](https://daisuke.uriu.jp/?lang=en). 
+This student-led replicative study brought to life the design concept originally concieved by media-designer and professor <a href="https://daisuke.uriu.jp/about/?lang=en" target="_blank">Dr. Daisuke Uriu</a>.
 
 **Researchers**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.<br>
 **Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor, eletronic sensors.
@@ -24,7 +24,7 @@ At the start of our summer research program, we were presented with the opportun
 **Background and Replication Objective**<br>
 ThanatoFenestra is a Japanese Buddhist altar reimagined into a circular frame which displays a projected image that is manipulated by a candle flame. The concept addresses space challenges of urban living by miniaturizing a traditional Butsudan altar. Zen Buddhist ideals inspired the circular shape of the structure, which understands the circle as a window into the afterlife. A circular wooden frame with Japanese paper is attached to the rear that acts as the projector screen. From the front, a wooden shelf is nestled below the frame's center. The shelf’s purpose is two-fold: it suspends the incense bowl above a tea candle and it hides the sensors that will read the candle flame’s condition. The original concept used a PC laptop, projector, and a custom microcontroller hidden outside the frame. Our goal was to recreate the design with open-source and off-the-shelf components, and fully enclose all electronics for a single portable artifact.
 
-[Read More (ISAM 2022)>>](https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf)
+<a href="https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf" target="_blank">Read More (ISAM 2022)>></a>
 
 ![ThanatoFenestra](/images/thanatofenestra/tf_sensors.jpg "ThanatoFenestra"){: width="300px"}
 ![ThanatoFenestra](/images/thanatofenestra/tf_guts.jpg "ThanatoFenestra"){: width="300px"}
