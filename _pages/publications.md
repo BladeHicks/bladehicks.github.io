@@ -6,7 +6,6 @@ author_profile: true
 ---
 
 
-**<a href="https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf" target="_blank">Learning Through Replication by Fabricating ThanatoFenestra</a>**
+**<a href="https://isam2022.hemi-makers.org/wp-content/uploads/sites/3/2022/10/119..pdf" target="_blank">Learning Through Replication by Fabricating ThanatoFenestra</a>**<br>
 Blade Hicks, Nancy Landeros, Ndizeye Tschequis
-_<a href="https://isam2022.hemi-makers.org/" target="_blank">International Symposium on Academic Makerspaces (ISAM), 2022</a>_
-
+_<a href="https://isam2022.hemi-makers.org/" target="_blank">International Symposium on Academic Makerspaces, 2022</a>_
