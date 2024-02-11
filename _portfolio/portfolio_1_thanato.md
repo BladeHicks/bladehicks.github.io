@@ -12,7 +12,7 @@ This student-led replicative study brought to life the design concept originally
 **Dates**: June - August 2022.<br>
 **Participants**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.<br>
 **Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor, eletronic sensors.<br>
-**URL**: https://github.com/cheskynd/TFURCPP.git  
+**URL**: <a href="https://github.com/cheskynd/TFURCPP.git" target="_blank">https://github.com/cheskynd/TFURCPP.git</a>  
 
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_2.png "ThanatoFenestra"){: width="210px"}
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc.png "ThanatoFenestra"){: width="210px"}
