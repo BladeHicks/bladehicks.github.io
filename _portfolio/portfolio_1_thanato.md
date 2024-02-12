@@ -9,9 +9,10 @@ collection: portfolio
 **ThanatoFenestra is a digital altar that combines computer and sensor technology with cultural practices around grief to provide a space of solace that is both accessible and culturally sensitive.**
 This student-led replicative study brought to life the design concept originally concieved by media-designer and professor <a href="https://daisuke.uriu.jp/about/?lang=en" target="_blank">Dr. Daisuke Uriu</a>.
 
-**Dates**: June - August 2022.<br>
-**Participants**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.<br>
-**Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor, eletronic sensors.<br>
+**Dates**: June - August 2022.  
+**Participants**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.  
+**Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor, eletronic sensors.  
+**URL**: https://github.com/cheskynd/TFURCPP.git  
 
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc_2.png "ThanatoFenestra"){: width="210px"}
 ![ThanatoFenestra](/images/thanatofenestra/tf_package_inventor_doc.png "ThanatoFenestra"){: width="210px"}
