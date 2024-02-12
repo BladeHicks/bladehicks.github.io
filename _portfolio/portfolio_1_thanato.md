@@ -8,15 +8,15 @@ collection: portfolio
 ![ThanatoFenestra](/images/thanatofenestra/thanatofenestra_portfolio_pic.jpg "ThanatoFenestra"){: .align-right width="300px"}
 **ThanatoFenestra is a digital altar that combines computer and sensor technology with cultural practices around grief to provide a space of solace that is both accessible and culturally sensitive.** This student-led replicative study brought to life the design concept originally concieved by media-designer and professor <a href="https://daisuke.uriu.jp/about/?lang=en" target="_blank">Dr. Daisuke Uriu</a>.  
 
-**My role** included designing and constructing a portable altar that could accommodate a pico projector, mirror, raspberry pi3, and a circuit board with light and temprature sensors. I also wrote a program for image manipulation utilizing the OpenCV (python) libray. Additionally, I handled daily documentation, wrote the two page abstract, managed conference entry and logistics, and designed a poster.  
-
 **Dates**: June - August 2022.  
 **Participants**: Nancy Landeros, Ndizeye Tschesquis, and Blade Hicks.  
 **Tools**: Raspberry Pi3, Python, OpenCV, lasercutter, AutoDesk Inventor, eletronic sensors.  
 **URL**: <a href="https://github.com/cheskynd/TFURCPP.git" target="_blank">https://github.com/cheskynd/TFURCPP.git</a>  
 
-**Video Demonstration**  
-<video src="/images/thanatofenestra/tf_demo_video_compressed.mp4" width="600" controls></video>  
+**My role** included designing and constructing a portable altar that could accommodate a pico projector, mirror, raspberry pi3, and a circuit board with light and temprature sensors. I also wrote a program for image manipulation utilizing the OpenCV (python) libray. Additionally, I handled daily documentation, wrote the two page abstract, managed conference entry and logistics, and designed a poster. 
+
+**Video Demonstration**<br>
+<video src="/images/thanatofenestra/tf_demo_video_compressed.mp4" width="600" controls></video><br>
 
 **Introduction**  
 ThanatoFenestra is a “photographic family altar designed with the purpose of supporting a ritual to pray for the deceased',' originally designed by Daisuke Uriu and Naohito Okude in 2009. We chose this project to understand how design technologies convey family practices. The aim of our project was to replicate the ThanatoFenestra concept to use in future human-computer interaction research on the social perception of memory technologies.  
