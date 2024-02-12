@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 ![Quilt Block](/images/quilt/garden_quilt_table.jpg "Quilt Block"){: .align-left width="300px"}
-**The Garden Sampler Quilted Tapestry is a collaborative project stitched together by nine Berea College student-laborers within the Student Craft Weaving Department.** Over the spring '22 term each student developed a quilt block accompanied with a personal story.  
+**The Garden Sampler Quilted Tapestry is a collaborative project stitched together by nine Berea College student-laborers within the Student Craft Weaving Department.** Over the spring '22 term each student developed a quilt block reflecting a personal story.  
 
 **Dates**: January - May 2022.  
 **Participants**: Shaylee ’23, Sisaly ’25, Shekinah ’23, Taku ’23, Evelyn ’22, Zy ’22, Esther ’23, Dora ’23, Blade ’23  

@@ -15,8 +15,8 @@ collection: portfolio
 
 **My role** included designing and constructing a portable altar that could accommodate a pico projector, mirror, raspberry pi3, and a circuit board with light and temprature sensors. I also wrote a program for image manipulation utilizing the OpenCV (python) libray. Additionally, I handled daily documentation, wrote the two page abstract, managed conference entry and logistics, and designed a poster. 
 
-**Video Demonstration**  
-<video src="/images/thanatofenestra/tf_demo_video_compressed.mp4" width="600" controls></video>  
+**Video Demonstration**<br>
+<video src="/images/thanatofenestra/tf_demo_video_compressed.mp4" width="600" controls></video><br>
 
 **Background and Replication Objective**  
 ThanatoFenestra is a Japanese Buddhist altar reimagined into a circular frame which displays a projected image that is manipulated by a candle flame. The concept addresses space challenges of urban living by miniaturizing a traditional Butsudan altar. Zen Buddhist ideals inspired the circular shape of the structure, which understands the circle as a window into the afterlife. A circular wooden frame with Japanese paper is attached to the rear that acts as the projector screen. From the front, a wooden shelf is nestled below the frame's center. The shelf’s purpose is two-fold: it suspends the incense bowl above a tea candle and it hides the sensors that will read the candle flame’s condition. The original concept used a PC laptop, projector, and a custom microcontroller hidden outside the frame. Our goal was to recreate the design with open-source and off-the-shelf components, and fully enclose all electronics for a single portable artifact.  

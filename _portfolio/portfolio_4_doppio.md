@@ -1,6 +1,6 @@
 ---
 title: "Doppio"
-excerpt: "Handmade espresso cups."
+excerpt: "Handmade ceramic cups for espresso drnkers."
 # excerpt: "<img src='/images/braillePhone/bp_final.jpg' width='200px'>"
 collection: portfolio
 ---
